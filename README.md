@@ -1,4 +1,4 @@
-# nice60-zmk-config
+# Nice!60 ZMK Config
 
 ### Flashing UF2 Files
 
